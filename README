@@ -3,3 +3,9 @@ ELEG404 Tree Identification Project
 Shell Shetti
 Joseph Cristiano
 "Use Hyperspectral Data to implent a neural network to identify trees"
+
+
+INSTRUCTIONS ON HOW TO GET THIS WORKING
+clone the git repo
+copy the data files into the directory of your git repo
+make sure that you ignore the files when making commits as the files are too large
