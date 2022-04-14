@@ -9,3 +9,18 @@ INSTRUCTIONS ON HOW TO GET THIS WORKING
 clone the git repo
 copy the data files into the directory of your git repo
 make sure that you ignore the files when making commits as the files are too large
+
+
+NOTEBOOKS
+
+DataMining.ipynb 
+	Ingests the at-sensor-refl data and sorts based on hyperspectral curve
+	outputs an H5 file with training data for the neural network
+	
+
+NeuralNetwork.ipynb
+	Very simple neural network that distiguishes between pixels of tree
+	crowns and non tree crowns
+
+
+ 
